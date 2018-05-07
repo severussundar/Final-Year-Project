@@ -1,0 +1,5 @@
+train_path = r"/media/shyam/Education/Codes/Projects/Final Year Project/Multimodal-Sentiment-Analysis/MOUD/VideoReviews/transcriptions/train/*.csv"
+test_path = r"/media/shyam/Education/Codes/Projects/Final Year Project/Multimodal-Sentiment-Analysis/MOUD/VideoReviews/transcriptions/test/174_makeup.csv"
+data_path = "/media/shyam/Education/Codes/Projects/Final Year Project/Multimodal-Sentiment-Analysis/MOUD/MultimodalFeatures/visualFeaturesCERT/174_makeup_au.csv"
+model_path = "/home/shyam/Desktop/project0.948797419696.pkl"
+data_path2 = "/media/shyam/Education/Codes/Projects/Final Year Project/Multimodal-Sentiment-Analysis/MOUD/MultimodalFeatures/visualFeaturesCERT/*.csv"
